@@ -1,6 +1,5 @@
 ## Hi there , I'm Harsa 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harsashahi511@gmail.com
 
 ## Skills
 - Python 🐍
@@ -24,7 +23,3 @@
 - Git, GitHub
 - Excel, Power BI
 
-## Projects
-- Floorsheet Analysis Automation
-- Semantic Book Recommendation System
-- To-Do Web App
