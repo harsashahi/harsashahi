@@ -1,6 +1,7 @@
 ## Hi there , I'm Harsa 👋
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/harsharoyalthakuri)
+let's connect
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harsashahi511@gmail.com)
 
 ## Skills
