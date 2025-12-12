@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**harsashahi/harsashahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harsa 👋
 
-Here are some ideas to get you started:
+## Skills
+- Python 🐍
+- Pandas & NumPy
+- Data Analysis & Visualization
+- Web Development (Django, React)
+- Git & GitHub
+- SQL & Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+- Python
+- JavaScript
+- C#
+- HTML, CSS
+
+## Tools & Technologies
+- VS Code
+- Git, GitHub
+- Excel, Power BI
+
+## Projects
+- Floorsheet Analysis Automation
+- Semantic Book Recommendation System
+- To-Do Web App
