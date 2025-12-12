@@ -1,5 +1,7 @@
 ## Hi there , I'm Harsa 👋
 
+Innovative tech enthusiast with a strong background in backend development using the python and django REST Framework. Skilled in collaborating with cross-functional teams, including software development, engineering, and product management, I have contributed to creating powerful and scalable software solutions that meet the demands of modern applications. I am confident in my ability to work collaboratively and contribute to the success of any project. 
+
 let's connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harsashahi511@gmail.com)
