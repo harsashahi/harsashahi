@@ -6,7 +6,7 @@ Innovative tech enthusiast with a strong background in backend development using
 let's connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harsashahi511@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/harsha-shahi-3a4411315)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-shahi-3a4411315/)
 
 ## Skills
 - Python 🐍- Pandas & NumPy- Data Analysis & Visualization- Web Development (Django, React)- Git & GitHub- SQL & Databases
