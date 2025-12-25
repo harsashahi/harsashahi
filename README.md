@@ -17,11 +17,8 @@ let's connect
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,python,C#,)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-Frameworks 
 
-- [React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## Tools & Technologies
 - VS Code
