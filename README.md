@@ -13,7 +13,7 @@ let's connect
 
 ## Teck Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,oop,csharp,python,C#,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,c++,python,C#,)](https://skillicons.dev)
 
 [![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
