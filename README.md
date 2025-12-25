@@ -27,7 +27,7 @@ Frameworks and Libraries
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-Database
+Databases
 
 [![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
