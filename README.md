@@ -15,7 +15,7 @@ let's connect
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,python,C#,)](https://skillicons.dev)
 
-
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 
 ## Tools & Technologies
